@@ -3,6 +3,6 @@
   <img src="./public/banner.png" alt="wikeebia banner" width=400 />
 </p>
 
-# wikeebia-frontend
+## Description
 
 keeboard information website wikeebia's frontend
